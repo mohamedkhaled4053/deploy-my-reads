@@ -1,21 +1,21 @@
 {
   "files": {
     "main.css": "/deploy-my-reads/static/css/main.ed364ecf.chunk.css",
-    "main.js": "/deploy-my-reads/static/js/main.a1d1c6ef.chunk.js",
-    "main.js.map": "/deploy-my-reads/static/js/main.a1d1c6ef.chunk.js.map",
+    "main.js": "/deploy-my-reads/static/js/main.cf7a6765.chunk.js",
+    "main.js.map": "/deploy-my-reads/static/js/main.cf7a6765.chunk.js.map",
     "runtime-main.js": "/deploy-my-reads/static/js/runtime-main.ae4842a0.js",
     "runtime-main.js.map": "/deploy-my-reads/static/js/runtime-main.ae4842a0.js.map",
-    "static/js/2.211e5dfc.chunk.js": "/deploy-my-reads/static/js/2.211e5dfc.chunk.js",
-    "static/js/2.211e5dfc.chunk.js.map": "/deploy-my-reads/static/js/2.211e5dfc.chunk.js.map",
+    "static/js/2.ea2fa9cb.chunk.js": "/deploy-my-reads/static/js/2.ea2fa9cb.chunk.js",
+    "static/js/2.ea2fa9cb.chunk.js.map": "/deploy-my-reads/static/js/2.ea2fa9cb.chunk.js.map",
     "index.html": "/deploy-my-reads/index.html",
     "static/css/main.ed364ecf.chunk.css.map": "/deploy-my-reads/static/css/main.ed364ecf.chunk.css.map",
-    "static/js/2.211e5dfc.chunk.js.LICENSE.txt": "/deploy-my-reads/static/js/2.211e5dfc.chunk.js.LICENSE.txt",
+    "static/js/2.ea2fa9cb.chunk.js.LICENSE.txt": "/deploy-my-reads/static/js/2.ea2fa9cb.chunk.js.LICENSE.txt",
     "static/media/App.css": "/deploy-my-reads/static/media/arrow-drop-down.98ef3b31.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.ae4842a0.js",
-    "static/js/2.211e5dfc.chunk.js",
+    "static/js/2.ea2fa9cb.chunk.js",
     "static/css/main.ed364ecf.chunk.css",
-    "static/js/main.a1d1c6ef.chunk.js"
+    "static/js/main.cf7a6765.chunk.js"
   ]
 }
